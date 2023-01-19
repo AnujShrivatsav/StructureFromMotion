@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anuj/Downloads/StructureFromMotion/features.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+opencv2/features2d.hpp
+-
+

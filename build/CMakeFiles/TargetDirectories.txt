@@ -1,0 +1,3 @@
+/home/anuj/Downloads/StructureFromMotion/build/CMakeFiles/rebuild_cache.dir
+/home/anuj/Downloads/StructureFromMotion/build/CMakeFiles/edit_cache.dir
+/home/anuj/Downloads/StructureFromMotion/build/CMakeFiles/ShowImages.dir
